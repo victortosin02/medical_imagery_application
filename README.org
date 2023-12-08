@@ -1,4 +1,4 @@
-*Project Overviw
+*** Project Overviw
 
 The project involves the development of a web-based medical imaging platform. This platform is designed to facilitate the viewing and analysis of medical images through a user-friendly interface accessible via a web browser. The goal is to provide healthcare professionals with a centralized and efficient solution for managing and interpreting medical imaging data, enhancing collaboration, and streamlining the overall diagnostic process. The platform likely incorporates advanced features such as image visualization tools, secure storage, and potentially integrates with other healthcare systems for comprehensive patient care.
 
